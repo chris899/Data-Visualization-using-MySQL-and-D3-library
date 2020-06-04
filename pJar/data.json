@@ -1,0 +1,459 @@
+[
+
+    {
+        "categorie": "1960-64", 
+        "values": [
+
+            {
+                "value": 0.0, 
+                "rate": "Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)"
+
+            }, 
+
+            {
+                "value": 0.0, 
+                "rate": "Lower secondary school starting age (years)"
+
+            }, 
+
+            {
+                "value": 0.0, 
+                "rate": "Adjusted net enrollment rate, primary (% of primary school age children)"
+
+            }, 
+
+            {
+                "value": 0.0, 
+                "rate": "School enrollment, primary (% gross)"
+
+            }, 
+
+            {
+                "value": 0.0, 
+                "rate": "Pupil-teacher ratio, primary"
+
+            } 
+
+        ]
+
+            }, 
+
+    {
+        "categorie": "1965-69", 
+        "values": [
+
+            {
+                "value": 0.0, 
+                "rate": "Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)"
+
+            }, 
+
+            {
+                "value": 0.0, 
+                "rate": "Lower secondary school starting age (years)"
+
+            }, 
+
+            {
+                "value": 0.0, 
+                "rate": "Adjusted net enrollment rate, primary (% of primary school age children)"
+
+            }, 
+
+            {
+                "value": 0.0, 
+                "rate": "School enrollment, primary (% gross)"
+
+            }, 
+
+            {
+                "value": 0.0, 
+                "rate": "Pupil-teacher ratio, primary"
+
+            } 
+
+        ]
+
+            }, 
+
+    {
+        "categorie": "1970-74", 
+        "values": [
+
+            {
+                "value": 0.0, 
+                "rate": "Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)"
+
+            }, 
+
+            {
+                "value": 0.0, 
+                "rate": "Lower secondary school starting age (years)"
+
+            }, 
+
+            {
+                "value": 0.0, 
+                "rate": "Adjusted net enrollment rate, primary (% of primary school age children)"
+
+            }, 
+
+            {
+                "value": 0.0, 
+                "rate": "School enrollment, primary (% gross)"
+
+            }, 
+
+            {
+                "value": 0.0, 
+                "rate": "Pupil-teacher ratio, primary"
+
+            } 
+
+        ]
+
+            }, 
+
+    {
+        "categorie": "1975-79", 
+        "values": [
+
+            {
+                "value": 0.0, 
+                "rate": "Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)"
+
+            }, 
+
+            {
+                "value": 12.0, 
+                "rate": "Lower secondary school starting age (years)"
+
+            }, 
+
+            {
+                "value": 74.546308, 
+                "rate": "Adjusted net enrollment rate, primary (% of primary school age children)"
+
+            }, 
+
+            {
+                "value": 81.98822, 
+                "rate": "School enrollment, primary (% gross)"
+
+            }, 
+
+            {
+                "value": 25.004146, 
+                "rate": "Pupil-teacher ratio, primary"
+
+            } 
+
+        ]
+
+            }, 
+
+    {
+        "categorie": "1980-84", 
+        "values": [
+
+            {
+                "value": 0.0, 
+                "rate": "Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)"
+
+            }, 
+
+            {
+                "value": 12.0, 
+                "rate": "Lower secondary school starting age (years)"
+
+            }, 
+
+            {
+                "value": 94.758088, 
+                "rate": "Adjusted net enrollment rate, primary (% of primary school age children)"
+
+            }, 
+
+            {
+                "value": 101.92426, 
+                "rate": "School enrollment, primary (% gross)"
+
+            }, 
+
+            {
+                "value": 28.432344, 
+                "rate": "Pupil-teacher ratio, primary"
+
+            } 
+
+        ]
+
+            }, 
+
+    {
+        "categorie": "1985-89", 
+        "values": [
+
+            {
+                "value": 6.573228, 
+                "rate": "Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)"
+
+            }, 
+
+            {
+                "value": 12.0, 
+                "rate": "Lower secondary school starting age (years)"
+
+            }, 
+
+            {
+                "value": 93.36296200000001, 
+                "rate": "Adjusted net enrollment rate, primary (% of primary school age children)"
+
+            }, 
+
+            {
+                "value": 99.281774, 
+                "rate": "School enrollment, primary (% gross)"
+
+            }, 
+
+            {
+                "value": 24.086346, 
+                "rate": "Pupil-teacher ratio, primary"
+
+            } 
+
+        ]
+
+            }, 
+
+    {
+        "categorie": "1990-94", 
+        "values": [
+
+            {
+                "value": 0.0, 
+                "rate": "Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)"
+
+            }, 
+
+            {
+                "value": 12.0, 
+                "rate": "Lower secondary school starting age (years)"
+
+            }, 
+
+            {
+                "value": 92.222532, 
+                "rate": "Adjusted net enrollment rate, primary (% of primary school age children)"
+
+            }, 
+
+            {
+                "value": 96.67896, 
+                "rate": "School enrollment, primary (% gross)"
+
+            }, 
+
+            {
+                "value": 22.592308, 
+                "rate": "Pupil-teacher ratio, primary"
+
+            } 
+
+        ]
+
+            }, 
+
+    {
+        "categorie": "1995-99", 
+        "values": [
+
+            {
+                "value": 0.0, 
+                "rate": "Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)"
+
+            }, 
+
+            {
+                "value": 12.0, 
+                "rate": "Lower secondary school starting age (years)"
+
+            }, 
+
+            {
+                "value": 88.951442, 
+                "rate": "Adjusted net enrollment rate, primary (% of primary school age children)"
+
+            }, 
+
+            {
+                "value": 92.43634200000001, 
+                "rate": "School enrollment, primary (% gross)"
+
+            }, 
+
+            {
+                "value": 18.180690000000002, 
+                "rate": "Pupil-teacher ratio, primary"
+
+            } 
+
+        ]
+
+            }, 
+
+    {
+        "categorie": "2000-04", 
+        "values": [
+
+            {
+                "value": 0.0, 
+                "rate": "Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)"
+
+            }, 
+
+            {
+                "value": 12.0, 
+                "rate": "Lower secondary school starting age (years)"
+
+            }, 
+
+            {
+                "value": 92.32385000000001, 
+                "rate": "Adjusted net enrollment rate, primary (% of primary school age children)"
+
+            }, 
+
+            {
+                "value": 93.829912, 
+                "rate": "School enrollment, primary (% gross)"
+
+            }, 
+
+            {
+                "value": 14.427814000000001, 
+                "rate": "Pupil-teacher ratio, primary"
+
+            } 
+
+        ]
+
+            }, 
+
+    {
+        "categorie": "2005-09", 
+        "values": [
+
+            {
+                "value": 0.0, 
+                "rate": "Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)"
+
+            }, 
+
+            {
+                "value": 12.0, 
+                "rate": "Lower secondary school starting age (years)"
+
+            }, 
+
+            {
+                "value": 97.76975, 
+                "rate": "Adjusted net enrollment rate, primary (% of primary school age children)"
+
+            }, 
+
+            {
+                "value": 97.59245800000001, 
+                "rate": "School enrollment, primary (% gross)"
+
+            }, 
+
+            {
+                "value": 12.373526000000002, 
+                "rate": "Pupil-teacher ratio, primary"
+
+            } 
+
+        ]
+
+            }, 
+
+    {
+        "categorie": "2010-14", 
+        "values": [
+
+            {
+                "value": 50.89159, 
+                "rate": "Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)"
+
+            }, 
+
+            {
+                "value": 12.0, 
+                "rate": "Lower secondary school starting age (years)"
+
+            }, 
+
+            {
+                "value": 57.441525999999996, 
+                "rate": "Adjusted net enrollment rate, primary (% of primary school age children)"
+
+            }, 
+
+            {
+                "value": 58.461328, 
+                "rate": "School enrollment, primary (% gross)"
+
+            }, 
+
+            {
+                "value": 6.377492, 
+                "rate": "Pupil-teacher ratio, primary"
+
+            } 
+
+        ]
+
+            }, 
+
+    {
+        "categorie": "2015-18", 
+        "values": [
+
+            {
+                "value": 27.734592, 
+                "rate": "Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)"
+
+            }, 
+
+            {
+                "value": 12.0, 
+                "rate": "Lower secondary school starting age (years)"
+
+            }, 
+
+            {
+                "value": 97.10424800000001, 
+                "rate": "Adjusted net enrollment rate, primary (% of primary school age children)"
+
+            }, 
+
+            {
+                "value": 98.553554, 
+                "rate": "School enrollment, primary (% gross)"
+
+            }, 
+
+            {
+                "value": 5.627688000000001, 
+                "rate": "Pupil-teacher ratio, primary"
+
+            } 
+
+        ]
+
+            } 
+
+]
